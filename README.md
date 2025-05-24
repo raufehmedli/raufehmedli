@@ -10,6 +10,8 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/>
 </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="80" height="80"/></a>
-<a href="https://www.cisco.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Cisco_logo_blue_2016.svg" alt="cisco" width="80" height="80"/></a>
+  <a href="https://www.cisco.com/" target="_blank" rel="noreferrer">
+  <img src="https://logos-world.net/wp-content/uploads/2021/02/Cisco-Logo.png" alt="cisco" width="80" height="80"/>
+</a>
 <a href="https://www.kernel.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/></a>
 
